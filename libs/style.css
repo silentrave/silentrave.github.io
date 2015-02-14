@@ -1,0 +1,19 @@
+.cover {
+  color: rgb(255, 255, 255);
+  position: relative;
+  min-height: 500px;
+  background: url("../static/rave.jpg") no-repeat scroll 0px 100% / cover transparent;
+}
+
+.title {
+  font-size: 1000%;
+  text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 300%;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  text-align: center;
+}
+
