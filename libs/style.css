@@ -1,3 +1,21 @@
+.bits {
+  font-family: "Verdana";
+  font-size: 1.25em;
+}
+
+.btn {
+  font-size: 1.45em;
+}
+
+.word {
+  color:red;
+}
+
+.weird {
+  color:blue;
+  font-size: 1.28;
+}
+
 .cover {
   color: rgb(255, 255, 255);
   position: relative;
