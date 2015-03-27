@@ -1,3 +1,31 @@
+body {
+  background:
+    -moz-radial-gradient( center center, contain, #757575, transparent ),
+    black;
+
+  background:
+    -webkit-radial-gradient( center center, contain, #757575, transparent ),
+    black;
+
+  background:
+    -o-radial-gradient( center center, contain, #757575, transparent ),
+    black;
+
+  background:
+    -khtml-radial-gradient( center center, contain, #757575, transparent ),
+    black;
+
+  background:
+    -ms-radial-gradient( center center, contain, #757575, transparent ),
+    black;
+
+  background:
+  radial-gradient( center center, contain, #757575, transparent ), black;
+
+  color : white;
+}
+
+
 .bits {
   font-family: "Verdana";
   font-size: 1.25em;
@@ -12,7 +40,7 @@
 }
 
 .weird {
-  color:blue;
+  color: cyan;
   font-size: 1.28;
 }
 
